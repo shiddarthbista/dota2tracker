@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-api-dota2tracker"]=this["webpackJsonpreact-api-dota2tracker"]||[]).push([[0],{3:function(e,t,a){e.exports=a(9)},8:function(e,t,a){},9:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),c=a(2),o=a.n(c);a(8);var l=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("h1",null,"DOTAAAAAA"))};o.a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(l,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.6268a869.chunk.js.map
